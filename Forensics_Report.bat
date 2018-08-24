@@ -22,7 +22,7 @@ ECHO **************    Welcome to your Forensics Report Script      ************
 
 
 ECHO --------------------------------
-ECHO NO TURNING BACK NOW HAHAHAHAHAHAH!!!!
+ECHO NO TURNING BACK NOW HAHAHAHAHAHAH WTF!!!!
 ECHO --------------------------------
 PAUSE 
 
